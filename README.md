@@ -4,7 +4,7 @@
 
 ## Education					       		
 - M.S., Management Analytics | University of Toronto (_June 2024_)	 			        		
-- B.Tech., CSE | GGS Indraprastha University (_July 2021_)
+- B.S., Computer Science | GGS Indraprastha University (_July 2021_)
 
 ## Work Experience
 **Data Science Consultant @ Deloitte Omnia AI (_October 2023 - Present_)**
