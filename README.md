@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Tableau, Machine Learning, Data Warehousing, Data Modeling, Generative AI
 
 ## Education					       		
-- Masters, Management Analytics | University of Toronto (_June 2024_)	 			        		
+- M.S., Management Analytics | University of Toronto (_June 2024_)	 			        		
 - B.S., Information Technology | Guru Gobind Singh Indraprastha University (_July 2021_)
 
 ## Work Experience
