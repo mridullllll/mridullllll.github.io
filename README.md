@@ -1,10 +1,13 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, Tableau, Machine Learning, Data Warehousing, Data Modeling, Generative AI
+#### Technical Skills: Python, SQL, Tableau, Machine Learning, Data Warehousing, Data Modeling, Natural Language Processing, Generative AI, Stakeholder Management, Agile
 
 ## Education					       		
 - M.S., Management Analytics | University of Toronto (_June 2024_)	 			        		
 - B.S., Computer Science | GGS Indraprastha University (_July 2021_)
+
+## Cerifications
+- Microsoft Azure Data Scientist Associate
 
 ## Work Experience
 **Data Science Consultant @ Deloitte Omnia AI (_October 2023 - Present_)**
